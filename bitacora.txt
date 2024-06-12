@@ -1,0 +1,35 @@
+commit d1ff16f7cb0ca0857733872a2adac6f4e59de4ae
+Author: jonathan8556 <jgonzalezi7@miumg.edu.gt>
+Date:   Wed Jun 12 09:52:03 2024 -0600
+
+    Actualizacion
+
+commit 4a9036a6f560ae272bd9bc2e9d71de7e30204140
+Author: jonathan8556 <jgonzalezi7@miumg.edu.gt>
+Date:   Wed Jun 12 09:42:30 2024 -0600
+
+    informe
+
+commit c6b17bedb2d0691ac98641ee11ea0026d7e6e12d
+Author: jonathan8556 <jgonzalezi7@miumg.edu.gt>
+Date:   Wed Jun 12 09:39:59 2024 -0600
+
+    Login
+
+commit 83ea45902829ffdc07ab333142ca1beba7631008
+Author: jonathan8556 <jgonzalezi7@miumg.edu.gt>
+Date:   Wed Jun 12 09:38:49 2024 -0600
+
+    Bitacora
+
+commit 3e24f960b13103ef7a6681358dfee323d2ee4c1c
+Author: jonathan8556 <jgonzalezi7@miumg.edu.gt>
+Date:   Wed Jun 12 09:35:41 2024 -0600
+
+    Main
+
+commit 35264c064b5d75e97234ccbb16b245783d2fa07a
+Author: jonathan8556 <157381160+jonathan8556@users.noreply.github.com>
+Date:   Wed Jun 12 09:28:52 2024 -0600
+
+    Initial commit
